@@ -1,4 +1,4 @@
-name: balenaSound
+name: balena-sound
 type: sw.application
 description: >-
   Build a single or multi-room streamer for an existing audio device
@@ -28,4 +28,4 @@ data:
     - raspberrypi4-64
     - fincm3
     - intel-nuc
-version: 3.9.6
+version: 3.9.7
